@@ -2,5 +2,5 @@
 
 Written with Python3. Requires numpy and matplotlib. 
 
-This has been developed to serve the CalNERDS community at UC-Berkeley. Special thanks goes to Imad Pasha. The last exercise is based upon a similar one he and I have taught in the Python for Astronomy Decal. Please check it out <a href='http://ugastro.berkeley.edu/pydecal'>here</a>.
+This has been developed to serve the CalNERDS community at UC-Berkeley. Special thanks goes to Imad Pasha as much of the material in this bootcamp stems from that which we have taught in the Python for Astronomy Decal. Please check it out <a href='http://ugastro.berkeley.edu/pydecal'>here</a>.
 In addition, special thanks to Alex Nguyen for suggestions and critiques.
