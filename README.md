@@ -2,5 +2,9 @@
 
 Written with Python3. Requires numpy, matplotlib, scikit-image and PIL
 
-This has been developed to serve the CalNERDS community at UC-Berkeley. Special thanks goes to Imad Pasha as much of the material in this bootcamp stems from that which we have taught in the Python for Astronomy Decal. Please check it out <a href='http://ugastro.berkeley.edu/pydecal'>here</a>.
-In addition, special thanks to Alex Nguyen for suggestions and critiques.
+This has been developed to serve the CalNERDS community at UC-Berkeley. This effort has been supported by the generosity of Susan Lyne. Special thanks to Alex Nguyen for suggestions and critiques.
+
+
+<h4> Advanced Python Bootcamp</h4>
+Intended for those who have had some basic exposure to Python or to those who have finished the Beginner Bootcamp.
+Requires BeautifulSoup4, emcee, lmfit, numpy, matplotlib
